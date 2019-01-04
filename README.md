@@ -1,5 +1,5 @@
 # CPAS Crawler
-A Scrapy crawler to crawl the [CPAS Antenna database](http://cpas.antenna.nl/databases).
+A Scrapy crawler to crawl the [CPAS Antenna database](http://cpas.antenna.nl/databases). A previously crawled example of the dataset can be found [here](https://app.scrapinghub.com/datasets/r5lDO9bYTqU).
 
 ## Usage
 ### Local
