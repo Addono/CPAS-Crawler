@@ -1,2 +1,2 @@
-scrapy==2.11.2
+scrapy==2.17.0
 html2text==2018.1.9
